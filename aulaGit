@@ -2,7 +2,8 @@ ola = 'Ola Mundo'
 console.log(ola);
 console.log('ola');
 
-let resultadoMultiplicacao
-function multipçlicacao(a,b){
-    resultadoMultiplicacao = a * b
+let resultadodivisao
+function divisao(a,b){
+    return a/b,
+    resultadodivisao = a / b
 }
